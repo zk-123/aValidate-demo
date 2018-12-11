@@ -1,6 +1,6 @@
 package com.zkdcloud.validatedemo.validate;
 
-import com.zkdcloud.advice.HttpAdvice;
+import com.zkdcloud.aValidate.advice.HttpAdvice;
 import com.zkdcloud.validatedemo.exception.ValidateTipException;
 import org.springframework.stereotype.Component;
 

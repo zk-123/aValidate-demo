@@ -1,7 +1,7 @@
 package com.zkdcloud.validatedemo.service;
 
-import com.zkdcloud.annotation.BeforeProcess;
-import com.zkdcloud.annotation.Validate;
+import com.zkdcloud.aValidate.annotation.BeforeProcess;
+import com.zkdcloud.aValidate.annotation.Validate;
 import com.zkdcloud.validatedemo.bean.OperateResult;
 import com.zkdcloud.validatedemo.bean.User;
 import com.zkdcloud.validatedemo.validate.DemoInterfaceValidate;
