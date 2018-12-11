@@ -1,0 +1,28 @@
+GET http://127.0.0.1:8080/demo/get/userList
+Accept: application/json
+
+###
+
+GET http://127.0.0.1:8080/demo/get/userList0
+Accept: application/json
+
+###
+
+POST http://127.0.0.1:8080/demo/save/user
+Content-Type: application/json
+
+{
+  "username": "1",
+  "password": "123"
+}
+###
+
+POST http://127.0.0.1:8080/demo/save/user0
+Content-Type: application/json
+
+{
+  "username": "1",
+  "password": "123"
+}
+
+###
